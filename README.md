@@ -27,7 +27,6 @@ uvicorn backend.app.main:app --reload
 ```
 
 ## Documentacion
-- docs/architecture/README.md
-- docs/adr/
-- docs/runbooks/
-- CONTRIBUTING.md
+- Arquitectura.md
+- arquitectura tramitaia.pdf
+- Manual_TramitaIA_Completo2.docx
